@@ -43,7 +43,7 @@ public class MainViewController implements Initializable{
 	}
 	
 	@Override
-	public void initialize(URL uri, ResourceBundle rb) {		
+	public void initialize(URL url, ResourceBundle rb) {		
 	}
 	
 	// como essa é uma aplicação gráfica ela é multithread, para garantir que o processamento
